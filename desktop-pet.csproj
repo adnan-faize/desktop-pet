@@ -10,4 +10,8 @@
         <InvariantGlobalization>true</InvariantGlobalization>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="resources\" />
+    </ItemGroup>
+
 </Project>

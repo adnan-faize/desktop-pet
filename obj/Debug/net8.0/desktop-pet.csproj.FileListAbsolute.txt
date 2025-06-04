@@ -1,0 +1,15 @@
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\bin\Debug\net8.0\desktop-pet.exe
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\bin\Debug\net8.0\desktop-pet.deps.json
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\bin\Debug\net8.0\desktop-pet.runtimeconfig.json
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\bin\Debug\net8.0\desktop-pet.dll
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\bin\Debug\net8.0\desktop-pet.pdb
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.AssemblyInfoInputs.cache
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.AssemblyInfo.cs
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.csproj.CoreCompileInputs.cache
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.sourcelink.json
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.dll
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\refint\desktop-pet.dll
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.pdb
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\desktop-pet.genruntimeconfig.cache
+C:\Users\adnan\My Files\Projets\Desktop Pet\desktop-pet\obj\Debug\net8.0\ref\desktop-pet.dll
