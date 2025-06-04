@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5345ad2887fa5b4cae7502a9522e18a, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  animal: 1
+  canFly: 0
+  animatorControllers:
+  - {fileID: 9100000, guid: 0f5274b8da3a4224f87f1196347499c2, type: 2}
+  - {fileID: 9100000, guid: f26175ae05f1e1a4986631facf5f1953, type: 2}
+  - {fileID: 9100000, guid: 0bbeab18d90b0e8449a16e6afdeb59ed, type: 2}
+  - {fileID: 9100000, guid: 9517e75fd490fd34f9625d22fc198f45, type: 2}
+  speed: 10
+  maxSpeed: 1
+  cost: 123
